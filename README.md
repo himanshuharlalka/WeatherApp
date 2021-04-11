@@ -1,4 +1,4 @@
-# weather_app
+# Weather App
 
 A weather app which displays weather data up to 3 days based on user location.
 
