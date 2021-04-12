@@ -1,6 +1,6 @@
 # Weather App
 
-A weather app which displays weather data up to 3 days based on user location.
+A weather app which displays weather data up to 3 days using geolocation. 
 
 <table>
   <tr>
